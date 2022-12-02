@@ -1,0 +1,158 @@
+/* --------------------------------------------------*/
+/*CSS para Arquitectura                              */
+/*                                                   */
+/*Autor: Isaac Rodriguez                             */
+/* --------------------------------------------------*/
+
+body.Fondo{
+	text-align: center;
+	background-image:url("Fondo6.jpg");
+	background-size:100%;
+	background-repeat: no-repeat;
+}
+
+body.FondoU{
+	text-align: center;
+	background-image:url("FondoU.jpg");
+	background-size:600%;
+	background-repeat: no-repeat;
+}
+
+body.FondoU2{
+	text-align: center;
+	background-image:url("FondoU.jpg");
+	background-size:700%;
+	background-repeat: no-repeat;
+}
+
+h1.font{
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+	font-size: 120px;
+	color:  #e6e6e6;
+}
+
+h1.fontU{
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+	font-size: 80px;
+	color:  #e6e6e6;
+}
+
+h1.texto{
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+	font-size: 80px;
+	color:  #e6e6e6;
+}
+
+h2.tema{
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+	font-size: 80px;
+	color:  #e6e6e6;
+}
+
+button.boton{
+	text-decoration: none;
+    padding: 15px;
+    font-weight: 600;
+    font-size: 50px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 50px;
+    border: 2px solid #0016b0;
+}
+
+button.boton:hover{
+	color: #1883ba;
+    background-color: #ffffff;
+}
+
+div.logo{
+	
+}
+
+div.Bloque_Cont{
+	width: 50%;
+	height: 70%;
+	margin: 0;
+	padding: 10px;
+	border: 13px outset;
+	border-color: #000080;
+	background-color: rgb(255, 255, 255, 0.500);
+	margin-left:23%;
+}
+
+div.bloque{
+	width: 85%;
+	height: 600%;
+	margin: 0px auto;
+	padding: 10px;
+	border: 15px outset;
+	border-color:#0000FF;
+	background-color:rgb(60, 60, 60);
+	text-align: center;
+	font-size: 23px;
+	color:white;
+}
+
+div.bloqueU2{
+	width: 85%;
+	height: 620%;
+	margin: 0px auto;
+	padding: 10px;
+	border: 15px outset;
+	border-color:#0000FF;
+	background-color:rgb(60, 60, 60);
+	text-align: left;
+	font-size: 23px;
+	color:white;
+}
+
+div.bloqueU3{
+	width: 85%;
+	height: 650%;
+	margin: 0px auto;
+	padding: 10px;
+	border: 15px outset;
+	border-color:#0000FF;
+	background-color:rgb(60, 60, 60);
+	text-align: center;
+	font-size: 23px;
+	color:white;
+}
+
+div.bloqueU4{
+	width: 85%;
+	height: 710%;
+	margin: 0px auto;
+	padding: 10px;
+	border: 15px outset;
+	border-color:#0000FF;
+	background-color:rgb(60, 60, 60);
+	text-align: center;
+	font-size: 23px;
+	color:white;
+}
+
+div.bloquePRAC{
+	width: 85%;
+	height: 350%;
+	margin: 0px auto;
+	padding: 10px;
+	border: 15px outset;
+	border-color:#0000FF;
+	background-color:rgb(60, 60, 60);
+	text-align: center;
+	font-size: 23px;
+	color:white;
+}
+
+h5.CONTENIDO{
+	text-align: left;
+	font-family:'Oswald', sans-serif;
+	font-size: 25px;
+	color:  white;
+}
+
